@@ -1,0 +1,32 @@
+{
+    "games": [
+        {
+            "id" : 1,
+            "type": "moba",
+            "title" : "Lol",
+            "img":"https://playerbros.com/wp-content/uploads/2019/10/league-of-legends.jpg",
+            "description" : "League of Legends is a multiplayer online battle arena (MOBA) game, in which the player controls a character."
+        },
+        {
+            "id" : 2,
+            "type": "fps",
+            "title" : "Cs-Go",
+            "img":"https://steamcdn-a.akamaihd.net/steam/apps/730/capsule_616x353.jpg?t=1605757059",
+            "description" : "Counter-Strike: Global Offensive (CS:GO) is a multiplayer first-person shooter video game developed by Valve and Hidden Path Entertainment."
+        },
+        {
+            "id" : 3,
+            "type": "fps",
+            "title" : "Valo",
+            "img":"https://images.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt85aff7bf01140acc/5e572c0309113f0d3a852224/share.jpg",
+            "description" : "Valorant (stylized as VALORANT) is a free-to-play multiplayer tactical first-person hero shooter developed and published by Riot Games, for Microsoft Windows."
+        },
+        {
+            "id" : 4,
+            "type": "moba",
+            "title" : "Dota",
+            "img":"https://estnn.com/wp-content/uploads/2019/09/dota-2-header.jpg",
+            "description" : "Dota 2 is a multiplayer online battle arena (MOBA) video game developed and published by Valve."
+        }
+    ]
+}
